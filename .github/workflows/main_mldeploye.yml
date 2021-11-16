@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'mldeploye'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D68C6E429CFB45FBB13FC659AE250D3B }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0F77DB573E0047D38580551E35AD7E7F }}
